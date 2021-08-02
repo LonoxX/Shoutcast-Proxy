@@ -22,12 +22,12 @@ Proxy für Shoutcast server
 
 Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf)
 
-#### © 2020 Panda-Network
+#### © 2019 - 2021 Panda-Network
 
-## License
+## 📝 License
 
-<a rel="license" href="https://panda-network.de/licenses" target="_blank" >
-   <img src="https://panda-network.de/img/pn-forum-300x85.png" >
+<a rel="license" href="https://panda-network.de/lizenzen-nutzungsrechte" target="_blank" >
+   <img src="https://cdn.panda-network.de/Logos/pn_forum_bl.png" >
    <br>
 </a>
 This work is licensed under the Panda License - see the LICENSE file for details
