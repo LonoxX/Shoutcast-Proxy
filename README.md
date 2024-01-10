@@ -24,7 +24,7 @@ Panda-Network Discord [Discord-Server](https://discord.gg/z8ScRvf)
 
 <br>
 
-#### © 2019 - 2023 Panda-Network
+#### © 2019 - 2024 Panda-Network
 
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf)
